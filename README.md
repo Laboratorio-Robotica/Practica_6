@@ -48,12 +48,12 @@ void loop() {
   delay(1000);  
 }
 ```
-![Practica_5Robotica](https://github.com/user-attachments/assets/1ff865e9-4b88-448d-a87d-3bdb2ecae763)
+
 
 
 En el siguiente video se muestra el movimiento realizado utilizando el código anterior, cuyo objetivo fue realizar una cantidad de giros en un lapso de tiempo estipulado por el profesor. Este proceso demuestra el correcto funcionamiento del sistema y cumple con los objetivos establecidos para la práctica
 
-[https://drive.google.com/drive/folders/1LNkZFlLKDiIUVDZCGS-185doGVwsoqju?usp=drive_link](https://drive.google.com/drive/folders/1w3g0eCcPn4odeIJwMxbitkLx1k_9205J?usp=sharing)
+[https://drive.google.com/file/d/1aWOLuFcHtRlWnIL43TMY93QTWtS5U5pO/view?usp=sharing link](https://drive.google.com/file/d/1aWOLuFcHtRlWnIL43TMY93QTWtS5U5pO/view?usp=sharing)
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
