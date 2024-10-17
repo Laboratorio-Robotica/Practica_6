@@ -57,7 +57,7 @@ En el siguiente video se muestra el movimiento realizado utilizando el código a
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-Esta práctica demostró la importancia de la parte teórica en el manejo de motores mediante un driver. El análisis detallado de la configuración del driver permitió entender cómo los ajustes específicos influyen en la programación, lo que fue clave para el desarrollo adecuado del código. Al finalizar, se alcanzaron los objetivos planteados y se consolidó el conocimiento sobre el funcionamiento de los drivers y su programación en un contexto práctico.
+Esta práctica ayudó para un mejor entendimiento de la parte teórica en el manejo de motores mediante un driver. Determinar la configuración del driver permitió entender cómo los ajustes específicos influyen en la programación, lo que fue clave para el desarrollo del código con el fin de hacer girar el motor en la dirección y tiempo deseado. Al finalizar, se alcanzaron los objetivos planteados y se entendió el funcionamiento de los drivers y la programación.
 
 
 ### Pablo Axel Silva Fuentes: 
