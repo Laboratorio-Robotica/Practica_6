@@ -57,15 +57,15 @@ En el siguiente video se muestra el movimiento realizado utilizando el código a
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-La práctica fue importante para comprender la programación de trayectorias del brazo robótico Epson utilizando comandos como Move, Go, y Arc3. El ejercicio permitió aplicar estos comandos de manera secuencial para escribir la palabra "Taco", lo que reforzó el conocimiento de los diferentes tipos de movimientos y cómo  afecta la precisión del robot, cumpliendo satisfactoriamente con los objetivos planteados.
+Esta práctica demostró la importancia de la parte teórica en el manejo de motores mediante un driver. El análisis detallado de la configuración del driver permitió entender cómo los ajustes específicos influyen en la programación, lo que fue clave para el desarrollo adecuado del código. Al finalizar, se alcanzaron los objetivos planteados y se consolidó el conocimiento sobre el funcionamiento de los drivers y su programación en un contexto práctico.
 
 
 ### Pablo Axel Silva Fuentes: 
-La práctica fue crucial para entender cómo se pueden combinar los diferentes comandos de movimiento del brazo robótico Epson para lograr una tarea precisa como escribir "Taco". A través del uso de Move y Arc3, se aprendió a controlar los movimientos del robot con exactitud. Además, el descubrimiento de la posibilidad de ajustar directamente los puntos en el código hizo que fuera más fácil optimizar el trabajo en el eje Z, mejorando el proceso de escritura y contribuyendo al éxito del proyecto.
+De primera instancia la práctica fue esencial para reforzar los conocimientos teóricos adquiridos en clase, ya que permitió experimentar de manera directa con los conceptos relacionados con el funcionamiento de los drivers. Al usar el Arduino UNO, se profundizó en la configuración específica del driver, lo que facilitó la creación de un código ajustado a las necesidades del sistema ya que este puede variar. El desarrollo del código demuestra que la práctica no solo alcanzó los objetivos propuestos, sino que también ayudo un aprendizaje aplicable de manera practica.
 
 
-### Eduardo David Salas Ayala: 
-Esta práctica permitió una mejor comprensión de cómo se utilizan los comandos básicos y avanzados de movimiento en el software Epson RC+ para controlar el brazo robótico. El uso de Go, Move, y Arc3 para escribir la palabra "Taco" fue un ejercicio clave para aplicar los conocimientos adquiridos. También se aprovechó la función de ajustar la posición Z directamente en el código, lo que simplificó la edición de los puntos y ayudó a refinar los movimientos del robot.
+### Eduardo David Salas Ayala:
+Esta práctica ayudo significativamente a la comprensión de los conceptos tratados en las clases teóricas, facilitando la conexión entre la parte teoría y la parte práctica. Permitió entender mejor el funcionamiento de los drivers utilizando una placa de desarrollo. Durante su desarrollo, se analizó en detalle la configuración del driver, ya que la programación variaba según los ajustes específicos. Basándonos en la configuración que se nos proporcionó, se desarrolló el código correspondiente, tomando en cuenta estos aspectos. Como resultado, se concluyó que la práctica se realizó de manera efectiva, alcanzando los objetivos propuestos y logrando el aprendizaje esperado.
 
 ## Referencias bibliográficas
 - Epson (2020). EPSON RC+ 7.0 Manual del usuario Administración y desarrollo de proyectos (Ver.7.3). https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
